@@ -1,0 +1,51 @@
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\SignalRHost.exe.config
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\SignalRHost.exe
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\SignalRHost.pdb
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\Microsoft.Owin.xml
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\Visual Studio 2019 Projects\SignalRHost\bin\Debug\Microsoft.Owin.Security.xml
+D:\Visual Studio 2019 Projects\SignalRHost\obj\Debug\SignalRHost.csproj.AssemblyReference.cache
+D:\Visual Studio 2019 Projects\SignalRHost\obj\Debug\SignalRHost.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Projects\SignalRHost\obj\Debug\SignalRHost.csproj.CopyComplete
+D:\Visual Studio 2019 Projects\SignalRHost\obj\Debug\SignalRHost.exe
+D:\Visual Studio 2019 Projects\SignalRHost\obj\Debug\SignalRHost.pdb
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\SignalRHost.exe.config
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\obj\Debug\SignalRHost.exe
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\obj\Debug\SignalRHost.pdb
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\SignalRHost.exe
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\SignalRHost.pdb
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.Owin.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.Owin.Security.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Owin.dll
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.Owin.xml
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Microsoft.Owin.Security.xml
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\obj\Debug\SignalRHost.csproj.AssemblyReference.cache
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\obj\Debug\SignalRHost.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019 Projects\SignalR Practise\SignalRHost\obj\Debug\SignalRHost.csproj.CopyComplete
